@@ -10,7 +10,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
   (for example: "the hints were backwards").
     1. range for hard and medium are backwards, Medium should be from range 1-50 and hard should be from range 1-100.
     2. when you guess higher than expected it tells you to guess lower, when you guess lower it tells you to guess higher, Backwards.
-    3. The new game button is not funcitonal, it does not allow you to start a new game from a correct guess state or game over state.
+    3. The new game button seems to be functional in that it cchanges the developer debug information, but,it does not print and ovverrite the mesage from the previous game and the message just stays there
 
 ---
 
