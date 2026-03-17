@@ -5,8 +5,12 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
+  The game was a simple page with a side bar for difficulty allowing the user to choose from 3 diffiulties, Easy, MEdium, and Hard. The main game section shows Developer debug information which shows the number to guess, attemps, score, and history. The game also allows you to submit a guess and 
 - List at least two concrete bugs you noticed at the start  
   (for example: "the hints were backwards").
+    1. range for hard and medium are backwards, Medium should be from range 1-100 and hard should be from range 1-50.
+    2. when you guess higher than expected it tells you to guess lower, when you guess lower it tells you to guess higher, Backwards.
+    3. The new game button is not funcitonal, it does not allow you to start a new game from a correct guess state or game over state.
 
 ---
 
